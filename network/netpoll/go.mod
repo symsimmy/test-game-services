@@ -1,6 +1,6 @@
 module github.com/symsimmy/due/network/netpoll
 
-go 1.21
+go 1.21.0
 
 toolchain go1.21.4
 
