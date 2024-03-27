@@ -1,4 +1,4 @@
-module prinitt
+module github.com/Dominic-svG/test-game-services/prinitt
 
 go 1.21.0
 
