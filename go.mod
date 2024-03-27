@@ -1,4 +1,4 @@
-module github.com/dominic/test-game-services
+module github.com/Dominic-svG/test-game-services
 
 go 1.21.0
 
