@@ -79,4 +79,5 @@ const (
 	dungeon_start              = 11001 // 副本已经开始
 	dungeon_not_exists         = 11002 // 副本不存在
 	voice_frequently           = 12001 // 发言太频繁请稍后再试
+	test_test                  = 12002
 )
