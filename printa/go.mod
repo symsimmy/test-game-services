@@ -1,4 +1,4 @@
-module github.com/Dominic-svG/test-game-services/printa
+module github.com/symsimmy/test-game-services/printa
 
 go 1.21.0
 
