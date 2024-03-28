@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func PrintMain() {
-	fmt.Sprintf("%+v", "main")
+func PrintMain() string {
+	return fmt.Sprintf("%+v", "main")
 }

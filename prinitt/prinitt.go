@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func Printsss() {
-	fmt.Sprintf("%+v", "11111111111111111111")
+func Printsss() string {
+	return fmt.Sprintf("%+v", "11111111111111111111")
 }
